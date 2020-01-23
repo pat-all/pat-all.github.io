@@ -73,3 +73,7 @@ section {
 .right-component-body {
   margin: 1rem;
 }
+
+.right-component-body a {
+  text-decoration: none;
+}
