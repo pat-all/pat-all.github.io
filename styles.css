@@ -2,6 +2,10 @@
   --main-color: #2e2e2e;
   --secondary-color: #eeeeee;
 }
+body {
+  width: 1024px;
+  margin: auto;
+}
 
 main {
   display: grid;
