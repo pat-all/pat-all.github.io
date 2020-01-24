@@ -3,7 +3,7 @@
   --secondary-color: #eeeeee;
 }
 body {
-  width: 1024px;
+  max-width: 1024px;
   margin: auto;
 }
 
@@ -84,7 +84,7 @@ section {
 
 /*=== @media ==========================*/
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 760px) {
   main {
     grid-auto-flow: row;
     grid-template-columns: 1fr;
